@@ -7,6 +7,7 @@
 
 ## 打包ipa文件并且上传到fir.im
 -  下载build_upTofir.sh文件   
+-  配置fir.im Token  `fir p $Export_Path -T 你的fir Token`
 -  检测ruby版本 `ruby -v`  ruby版本需大于1.9.3, 不满足更新ruby
 -  安装fir.im插件  `gem install fir-cli`
 -  定位到脚本目录,运行脚本  `sh build_upTofir.sh`  
