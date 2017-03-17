@@ -12,5 +12,5 @@
 -  安装fir.im插件  `gem install fir-cli`
 -  定位到脚本目录,运行脚本  `sh build_upTofir.sh`  
 
-##**注意:** 
+## **注意:** 
 需要修改的参数:  ` projectPath`  `buildConfig` `$Export_Path -T`
